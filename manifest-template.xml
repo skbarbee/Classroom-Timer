@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
+  <Id>aa42b35a-3280-4e33-a00e-5c93ff4f6dc4</Id>
+  <Version>1.0.0.0</Version>
+  <ProviderName>Classroom Tools</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <DisplayName DefaultValue="Classroom Clock &amp; Timer"/>
+  <Description DefaultValue="Live classroom clock and reusable visual countdown timer for PowerPoint."/>
+  <IconUrl DefaultValue="https://YOUR-USERNAME.github.io/classroom-clock-timer/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://YOUR-USERNAME.github.io/classroom-clock-timer/icon-64.png"/>
+  <AppDomains><AppDomain>https://YOUR-USERNAME.github.io</AppDomain></AppDomains>
+  <Hosts><Host Name="Presentation"/></Hosts>
+  <DefaultSettings><SourceLocation DefaultValue="https://YOUR-USERNAME.github.io/classroom-clock-timer/taskpane.html"/></DefaultSettings>
+  <Permissions>ReadDocument</Permissions>
+</OfficeApp>
